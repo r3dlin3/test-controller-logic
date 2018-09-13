@@ -1,0 +1,9 @@
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\bin\Debug\netstandard2.0\WebApiSample.DataAccess.deps.json
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\bin\Debug\netstandard2.0\WebApiSample.DataAccess.dll
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\bin\Debug\netstandard2.0\WebApiSample.DataAccess.pdb
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\obj\Debug\netstandard2.0\WebApiSample.DataAccess.csprojAssemblyReference.cache
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\obj\Debug\netstandard2.0\WebApiSample.DataAccess.csproj.CoreCompileInputs.cache
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\obj\Debug\netstandard2.0\WebApiSample.DataAccess.AssemblyInfoInputs.cache
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\obj\Debug\netstandard2.0\WebApiSample.DataAccess.AssemblyInfo.cs
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\obj\Debug\netstandard2.0\WebApiSample.DataAccess.dll
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.DataAccess\obj\Debug\netstandard2.0\WebApiSample.DataAccess.pdb

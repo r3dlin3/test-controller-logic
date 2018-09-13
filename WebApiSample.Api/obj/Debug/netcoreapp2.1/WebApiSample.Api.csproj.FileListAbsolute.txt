@@ -1,0 +1,17 @@
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\bin\Debug\netcoreapp2.1\WebApiSample.Api.deps.json
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\bin\Debug\netcoreapp2.1\WebApiSample.Api.runtimeconfig.json
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\bin\Debug\netcoreapp2.1\WebApiSample.Api.runtimeconfig.dev.json
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\bin\Debug\netcoreapp2.1\WebApiSample.Api.dll
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\bin\Debug\netcoreapp2.1\WebApiSample.Api.pdb
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\bin\Debug\netcoreapp2.1\WebApiSample.DataAccess.dll
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\bin\Debug\netcoreapp2.1\WebApiSample.DataAccess.pdb
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\obj\Debug\netcoreapp2.1\WebApiSample.Api.csprojAssemblyReference.cache
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\obj\Debug\netcoreapp2.1\WebApiSample.Api.csproj.CoreCompileInputs.cache
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\obj\Debug\netcoreapp2.1\WebApiSample.Api.RazorAssemblyInfo.cache
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\obj\Debug\netcoreapp2.1\WebApiSample.Api.RazorAssemblyInfo.cs
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\obj\Debug\netcoreapp2.1\WebApiSample.Api.AssemblyInfoInputs.cache
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\obj\Debug\netcoreapp2.1\WebApiSample.Api.AssemblyInfo.cs
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\obj\Debug\netcoreapp2.1\WebApiSample.Api.RazorTargetAssemblyInfo.cache
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\obj\Debug\netcoreapp2.1\WebApiSample.Api.csproj.CopyComplete
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\obj\Debug\netcoreapp2.1\WebApiSample.Api.dll
+C:\tmp\Docs-master\aspnetcore\web-api\define-controller\samples\WebApiSample.Api\obj\Debug\netcoreapp2.1\WebApiSample.Api.pdb
