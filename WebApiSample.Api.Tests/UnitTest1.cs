@@ -18,7 +18,9 @@ namespace WebApiSample.Api.Tests
             // Arrange & Act
             var mockRepo = new Mock<IProductsRepository>();
             var controller = new ProductsController(mockRepo.Object);
-            controller.ControllerContext = new ControllerContext();
+            controller.ControllerContext = new ControllerContext(
+                
+            );
             controller.ModelState.AddModelError("error","some error");
 
             // Act
